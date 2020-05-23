@@ -1,0 +1,207 @@
+.btn {
+    padding: 16px 14px 18px;
+}
+.btn-facebook{
+    color: #fff;
+    background-color: #3b5998
+}
+.btn-block{
+    display: block;
+    width: 30%;
+    margin:auto;
+}
+.btn{
+    font-size: 14px;
+    line-height: 1;
+    border-radius: 500px;
+    
+    
+    
+    border-width: 0;
+    letter-spacing: 2px;
+    min-width: 160px;
+    text-transform: uppercase;
+    white-space: normal;
+}
+
+.btn-facebook {
+    padding-top: 14px;
+}
+.btn-facebook:hover{
+    background-color: cornsilk;
+}
+body {
+    font-family: circular-spotify-ui,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.btn  {
+    
+    margin-bottom: 0;
+    font-weight: 700;
+    text-align: center;
+    vertical-align: middle;
+   
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+}
+img{
+    vertical-align: middle;
+    border:0;
+    
+}
+.bg-dark{
+    background-color: #000;
+}
+.sm-padding{
+    padding-top: 60px ;
+    padding-bottom : 60px;
+}
+.container{
+    padding: 15px 0px;
+    margin-right:auto;
+    margin-left:auto;
+}
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.section-header{
+    position: relative;
+    margin-bottom: 60px;
+    
+}
+.text-center{
+    text-align: center;
+}
+div {
+    display: block;
+}
+.row:before {
+    
+    content: " ";
+}
+:before {
+    box-sizing: border-box;
+}
+::selection {
+    background-color: #6195FF;
+    color: #FFF;
+}
+.section-header {
+    position: relative;
+    margin-bottom: 60px;
+}
+.text-center {
+    text-align: center;
+}
+.white-text {
+    color: #FFF;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+.title:after {
+    content: "";
+    display: block;
+    height: 4px;
+    width: 40px;
+    background-color: #6195FF;
+   
+}
+.text-center .title:after {
+    margin: 20px auto 0px;
+}
+.col-md-12{
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.footer-logo {
+    text-align: center;
+    margin-bottom: 40px;
+}
+.footer-follow {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.footer-follow li a {
+    display: inline-block;
+    width: 72px;
+    height: 72px;
+    line-height: 80px;
+    text-align: center;
+    border-radius: 3px;
+    
+    
+    transition: all 0.4s;
+}
+a {
+    background-color: transparent;
+}
+:after, :before {
+    
+    box-sizing: border-box;
+}
+
+ul {
+    
+     margin: 0;
+    padding: 0;
+    list-style: none;
+    
+    display: block;
+    
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.section-header .title {
+    text-transform: capitalize;
+}
+@media only screen and (max-width: 767px){
+.section-header h2.title {
+    font-size: 31.5px;
+}
+}
+
+@media (min-width: 350px){
+ .btn-facebook {
+    padding-top: 14px;
+}
+}
+@media (min-width: 350px){
+.btn{
+    font-size: 9px;
+    line-height: 1;
+    border-radius: 500px;
+}
+}
+div{
+    display: block;
+}
+.col-xs-12 {
+    width: 100%;
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    float: left;
+}
+.divider {
+    border-top: 1px solid #d9dadc;
+    display: block;
+    line-height: 1px;
+    margin: 15px 0;
+    position: relative;
+    text-align: center;
+}
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
